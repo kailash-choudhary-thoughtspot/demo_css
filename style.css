@@ -1,7 +1,8 @@
 body {
   font-family: "Times New Roman", Times, serif !important;
   background-color: coral !important;
-  .bk-primary-nav {
-    background-color: coral !important;
-  }
 }
+
+body .bk-primary-nav {
+    background-color: coral !important;
+ }
